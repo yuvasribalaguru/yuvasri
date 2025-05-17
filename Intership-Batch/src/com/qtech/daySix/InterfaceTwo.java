@@ -1,4 +1,4 @@
-package com.qtech.intership.dayfour;
+package com.qtech.daySix;
 
 public interface InterfaceTwo {
 	void display();

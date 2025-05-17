@@ -1,4 +1,4 @@
-package com.qtech.intership.dayfour;
+package com.qtech.daySix;
 
 public class ParentClass {
 	int add(int a,int b) {

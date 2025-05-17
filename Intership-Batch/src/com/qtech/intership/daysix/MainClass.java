@@ -2,7 +2,7 @@ package com.qtech.intership.daysix;
 
 public class MainClass{
 	public static void main(String[]args) {
-		BankAccount account= new BankAccount();
+		BankAcoount account= new BankAcoount();
 		try {
 			account.deposit(500);
 		}catch (InvalidAmountException e) {

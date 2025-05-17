@@ -1,4 +1,4 @@
-package com.qtech.intership.dayfour;
+package com.qtech.daySix;
 
 public class InterfaceClass implements InterfaceOne, InterfaceTwo {
 	@Override
